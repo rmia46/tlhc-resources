@@ -2,7 +2,7 @@
 
 ---
 
-### ࠁ Bitmask & Bit Manipulation
+### Bitmask & Bit Manipulation
 
 - [Intro to Bitwise Operations – USACO Guide](https://usaco.guide/silver/intro-bitwise?lang=cpp)
 - [Binary Number and Bit Basics (YouTube)](https://youtu.be/DYwhXwGj1L4?si=I4AtBdhEtv2xAbFB)
